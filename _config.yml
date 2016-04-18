@@ -1,7 +1,7 @@
 name: Attaboysupplyco
 favicon: null
-layout_spectrum: 0.7372990848962218
-typography_spectrum: 0.45450525893829763
+layout_spectrum: 0.25817
+typography_spectrum: 0.40109
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.8070257981307805
+    - '#ffffff'
+    - '#f8bad5'
+    - '#fdecf3'
+    - '#fbdeea'
+    - '#f9cde0'
+  brandStrength: 0.75
   lightness: 0.7334116632118821
   saturation: 0.39584955945611
   rhythmicContrast: 0.26017983141355217
